@@ -9,5 +9,7 @@ public class console {
 		String nome = entrada.nextLine();
 
 		System.out.println("Seu nome: " + nome);
+		
+		// .trim method remove blank spaces from .nextLine(); in case the user uses some blank spaces before the input
 	}
 }
