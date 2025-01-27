@@ -5,3 +5,10 @@ C:\Users\joao.pedro\Documents\GitHub\estudo\C#\C#\obj\Debug\C#.csproj.AssemblyRe
 C:\Users\joao.pedro\Documents\GitHub\estudo\C#\C#\obj\Debug\C#.csproj.CoreCompileInputs.cache
 C:\Users\joao.pedro\Documents\GitHub\estudo\C#\C#\obj\Debug\C#.exe
 C:\Users\joao.pedro\Documents\GitHub\estudo\C#\C#\obj\Debug\C#.pdb
+C:\Users\joao.pedro\Documents\GitHub\LearningLab\C#\C#\bin\Debug\C#.exe.config
+C:\Users\joao.pedro\Documents\GitHub\LearningLab\C#\C#\bin\Debug\C#.exe
+C:\Users\joao.pedro\Documents\GitHub\LearningLab\C#\C#\bin\Debug\C#.pdb
+C:\Users\joao.pedro\Documents\GitHub\LearningLab\C#\C#\obj\Debug\C#.csproj.AssemblyReference.cache
+C:\Users\joao.pedro\Documents\GitHub\LearningLab\C#\C#\obj\Debug\C#.csproj.CoreCompileInputs.cache
+C:\Users\joao.pedro\Documents\GitHub\LearningLab\C#\C#\obj\Debug\C#.exe
+C:\Users\joao.pedro\Documents\GitHub\LearningLab\C#\C#\obj\Debug\C#.pdb
