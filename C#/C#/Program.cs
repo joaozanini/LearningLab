@@ -34,33 +34,16 @@ namespace C_
 
             Console.WriteLine($"Olá, {name}");
 
-
-            Array numeros = Array.CreateInstance(typeof(int), 5);
-            numeros.SetValue(2, 0);
-            numeros.SetValue(1, 1);
-            numeros.SetValue(3, 2);
-            numeros.SetValue(10, 3);
-            numeros.SetValue(5, 4);
-
-            Array.Sort(numeros);
-            for (int i = 0; i < numeros.Length; i++)
+            double nota = 7.32D;
+            if (nota < 5)
             {
-                Console.WriteLine(numeros.GetValue(i));
-            }
-
-            if (numeros.Length % 2 == 0)
+                Console.WriteLine("Reprovado");
+            } else if (nota > 5 && nota < 7)
             {
-                // Caso de tamanho par: média dos dois elementos centrais
-                int val1 = (int)numeros.GetValue(numeros.Length / 2 - 1);
-                int val2 = (int)numeros.GetValue(numeros.Length / 2);
-                int mediana = (val1 + val2) / 2;
-                Console.WriteLine("Mediana: " + mediana);
-            }
-            else
+                Console.WriteLine("Recuperação");
+            } else if (nota > 7)
             {
-                // Caso de tamanho ímpar: elemento central
-                int mediana = (int)numeros.GetValue(numeros.Length / 2);
-                Console.WriteLine("Mediana: " + mediana);
+                Console.WriteLine("Aprovado");
             }
 
             Console.Read();
