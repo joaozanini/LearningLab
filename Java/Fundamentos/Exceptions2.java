@@ -6,7 +6,7 @@ class Main {
         try{
             System.out.println(7 / sc.nextInt());
         } catch (Exception e) { // em caso de Exception (ex: / by zero)
-            System.out.println("Exception: " + e);
+            System.out.println("Exception: " + e.getMessage());
         } finally { // sempre é executado
             sc.close();
         }
