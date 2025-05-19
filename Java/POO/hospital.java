@@ -1,4 +1,4 @@
-public class Hospital {
+public class hospital {
     public static void main(String[] args) {
         Medico medicoMaria = new Medico("Maria Fernanda", "Ginecologista", 19, 'F', false, "");
         Paciente pacienteGenerico = new Paciente("Claudia", "Rotina", 19, 'F');
