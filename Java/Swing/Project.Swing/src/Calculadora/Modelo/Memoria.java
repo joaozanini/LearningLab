@@ -19,19 +19,15 @@ public class Memoria {
 
 
     private Memoria() {}
-
     public static Memoria getInstancia() {
         return instancia;
     }
-
     public String getTextoAtual() {
         return textoAtual.isEmpty() ? "0" : textoAtual;
     }
-
     public void adicionarObservador(MemoriaObservador o) {
         observadores.add(o);
     }
-
     public void processarComando(String texto) {
         TipoComando tipoComando = detectarTipoComando(texto);
 
