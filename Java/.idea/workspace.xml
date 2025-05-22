@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11ccb526-eb3a-4306-b62f-77c65e52847f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/POO/src/hospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/src/hospital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Swing/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,10 +84,26 @@
       <workItem from="1743639395976" duration="907000" />
       <workItem from="1743713438079" duration="596000" />
       <workItem from="1745116139317" duration="382000" />
+      <workItem from="1747696078175" duration="36000" />
+      <workItem from="1747696135161" duration="40000" />
+      <workItem from="1747696634128" duration="320000" />
+      <workItem from="1747867946687" duration="128000" />
+      <workItem from="1747872986307" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
