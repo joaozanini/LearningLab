@@ -6,6 +6,9 @@
     <persistence-unit name="JPA">
         <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
         <class>modelo.basico.Usuario</class>
+        <class>modelo.basico.Produto</class>
+        <class>modelo.basico.umpraum.Assento</class>
+        <class>modelo.basico.umpraum.Cliente</class>
 
         <properties>
             <property name="javax.persistence.jdbc.driver"
