@@ -1,0 +1,20 @@
+.conteudo {
+    -fx-background-color: #1a1a1a;
+    -fx-font-family: "Oswald";
+}
+
+.texto {
+    -fx-text-fill: #FFF;
+    -fx-font-size: 24px;
+}
+
+.valorNegativo {
+    -fx-text-fill: red;
+}
+
+.botao {
+    -fx-font-size: 16px;
+    -fx-background-color: #1a1a1a;
+    -fx-border-color: #fff;
+    -fx-text-fill: #fff;
+}

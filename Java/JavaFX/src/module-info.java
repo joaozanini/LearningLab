@@ -3,4 +3,6 @@ module JavaFX {
     requires javafx.fxml;
 
     opens basico;
+    opens basico.Contador;
+    opens layout;
 }
