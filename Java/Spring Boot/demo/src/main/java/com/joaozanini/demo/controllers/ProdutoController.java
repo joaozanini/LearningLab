@@ -31,7 +31,7 @@ public class ProdutoController {
     public Optional<Produto> obterProdutosPorId(@PathVariable int id) {
         return produtoRepository.findById(id);
     }
-    
+
 
 //    @PutMapping
 //    public Produto alterarProduto(@Valid Produto produto) {
